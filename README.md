@@ -95,7 +95,7 @@ Discover a refined aesthetic, intuitive customer journeys, and responsive admini
 
 <a id="core-features"></a>
 
-## ✨ Core Features & Platform Modules
+## Core Features & Platform Modules
 
 LUNEL Beauty is engineered with a dual-engine architecture: a high-speed customer shopping experience and a comprehensive administrative portal for operational precision.
 
