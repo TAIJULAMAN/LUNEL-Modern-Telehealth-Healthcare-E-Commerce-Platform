@@ -39,8 +39,8 @@
   <a href="https://lunelwellness.com/"><b>Explore Live</b></a> &nbsp;•&nbsp;
   <a href="#architecture"><b>Architecture</b></a> &nbsp;•&nbsp;
   <a href="#core-features"><b>Core Features</b></a> &nbsp;•&nbsp;
-  <a href="https://github.com/parvesmosarof35/beautyShop/issues"><b>Report Bug</b></a> &nbsp;•&nbsp;
-  <a href="https://github.com/parvesmosarof35/beautyShop/issues"><b>Request Feature</b></a>
+  <a href="https://github.com/TAIJULAMAN/LUNEL-Modern-Telehealth-Healthcare-E-Commerce-Platform/issues"><b>Report Bug</b></a> &nbsp;•&nbsp;
+  <a href="https://github.com/TAIJULAMAN/LUNEL-Modern-Telehealth-Healthcare-E-Commerce-Platform/issues"><b>Request Feature</b></a>
 </p>
 
 <br />
