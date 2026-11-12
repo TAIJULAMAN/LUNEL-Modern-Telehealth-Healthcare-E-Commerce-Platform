@@ -36,7 +36,7 @@
 
 <!-- Live Demo & CTA Links -->
 <p align="center">
-  <a href="https://lunel-beauty.vercel.app/"><b>Explore Live</b></a> &nbsp;•&nbsp;
+  <a href="https://lunelwellness.com/"><b>Explore Live</b></a> &nbsp;•&nbsp;
   <a href="#architecture"><b>Architecture</b></a> &nbsp;•&nbsp;
   <a href="#core-features"><b>Core Features</b></a> &nbsp;•&nbsp;
   <a href="https://github.com/parvesmosarof35/beautyShop/issues"><b>Report Bug</b></a> &nbsp;•&nbsp;
@@ -81,15 +81,15 @@
 
 Discover a refined aesthetic, intuitive customer journeys, and responsive administrative dashboards crafted with Next.js 16, Tailwind CSS, Ant Design, and Recharts.
 
-|                           **Luxury Skincare & Hero Showcase**                            |                                  **Curated Product Collections**                                  |
-| :--------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
+|                             **Luxury Skincare & Hero Showcase**                             |                                   **Curated Product Collections**                                    |
+| :-----------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: |
 | <img src="./public/images/a-hero.png" alt="Hero Showcase & Brand Experience" width="480" /> | <img src="./public/images/collection1.webp" alt="Curated Collections & Seasonal Sets" width="480" /> |
-|                    _High-converting storefront hero & brand storytelling_                    |                        _Curated seasonal bundles & trending skincare lines_                       |
+|                   _High-converting storefront hero & brand storytelling_                    |                         _Curated seasonal bundles & trending skincare lines_                         |
 
-|                            **Product Showcase & Presentation**                           |                                   **Editorial Beauty Journal**                                    |
-| :--------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
-|      <img src="./public/images/p1.png" alt="Product Presentation Showcase" width="480" />     |         <img src="./public/images/b1.png" alt="Editorial Beauty Blog Post" width="480" />        |
-|                       _Detailed product attributes & pricing badges_                     |                         _Engaging editorial blog articles & skincare tips_                        |
+|                         **Product Showcase & Presentation**                          |                           **Editorial Beauty Journal**                            |
+| :----------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
+| <img src="./public/images/p1.png" alt="Product Presentation Showcase" width="480" /> | <img src="./public/images/b1.png" alt="Editorial Beauty Blog Post" width="480" /> |
+|                    _Detailed product attributes & pricing badges_                    |                _Engaging editorial blog articles & skincare tips_                 |
 
 ---
 
@@ -203,13 +203,13 @@ LUNEL Beauty employs modern web patterns featuring Next.js 16 App Router route g
 | :--------------------------- | :---------: | :-----------------: | :---------: | :---------: |
 | **Browse Catalog & Blog**    | Full Access |     Full Access     | Full Access | Full Access |
 | **Shopping Cart & Wishlist** | Full Access |     Full Access     | Full Access | Full Access |
-| **Order Placement**          | Full Access |     Full Access     |      ❌     |      ❌     |
-| **Order History & Profile**  |      ❌     |     Full Access     | View (All)  | Full Access |
-| **Sales & Revenue Charts**   |      ❌     |          ❌         | Full Access | Full Access |
-| **Product & Stock CRUD**     |      ❌     |          ❌         | Full Access | Full Access |
-| **Collection Management**    |      ❌     |          ❌         | Full Access | Full Access |
-| **Content CMS & Blog Admin** |      ❌     |          ❌         | Full Access | Full Access |
-| **Staff & Admin Management** |      ❌     |          ❌         |  View Only  | Full Access |
+| **Order Placement**          | Full Access |     Full Access     |     ❌      |     ❌      |
+| **Order History & Profile**  |     ❌      |     Full Access     | View (All)  | Full Access |
+| **Sales & Revenue Charts**   |     ❌      |         ❌          | Full Access | Full Access |
+| **Product & Stock CRUD**     |     ❌      |         ❌          | Full Access | Full Access |
+| **Collection Management**    |     ❌      |         ❌          | Full Access | Full Access |
+| **Content CMS & Blog Admin** |     ❌      |         ❌          | Full Access | Full Access |
+| **Staff & Admin Management** |     ❌      |         ❌          |  View Only  | Full Access |
 
 ---
 
