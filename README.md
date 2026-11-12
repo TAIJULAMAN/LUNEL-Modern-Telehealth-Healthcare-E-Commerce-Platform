@@ -52,7 +52,7 @@
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
 - [ Title & Value Proposition](#overview)
 - [ Tech Stack Badges](#tech-stack)
@@ -77,7 +77,7 @@
 
 <a id="interface-preview"></a>
 
-## 🖼️ Interface Preview
+## Interface Preview
 
 Discover a refined aesthetic, intuitive customer journeys, and responsive administrative dashboards crafted with Next.js 16, Tailwind CSS, Ant Design, and Recharts.
 
@@ -162,7 +162,7 @@ LUNEL Beauty is engineered with a dual-engine architecture: a high-speed custome
 
 <a id="architecture"></a>
 
-## 🏗️ Engineering Highlights & Architecture
+## Engineering Highlights & Architecture
 
 <a id="system-architecture"></a>
 
@@ -215,7 +215,7 @@ LUNEL Beauty employs modern web patterns featuring Next.js 16 App Router route g
 
 <a id="project-structure"></a>
 
-## 📂 Project Directory Structure
+## Project Directory Structure
 
 ```plaintext
 beautyShop/
@@ -325,7 +325,7 @@ beautyShop/
 
 <a id="developer-info"></a>
 
-## 👨‍💻 Developer Info & Socials
+## Developer Info & Socials
 
 LUNEL Beauty is developed and maintained by experienced full-stack web and e-commerce software engineers.
 
@@ -335,13 +335,13 @@ LUNEL Beauty is developed and maintained by experienced full-stack web and e-com
 
 - **Md Shah Aman Patwary** — _Full-Stack Software Engineer & Architectural Contributor_
   - 🌐 GitHub: [@TAIJULAMAN](https://github.com/TAIJULAMAN)
-  - 📧 Email: [taijulaman8@gmail.com](mailto:taijulaman8@gmail.com)
+  - 📧 Email: [mdshahamanpatwary@gmail.com](mailto:mdshahamanpatwary@gmail.com)
 
 ---
 
 <a id="license"></a>
 
-## 📄 License & Proprietary Notice
+## License & Proprietary Notice
 
 Copyright © 2026 LUNEL Beauty. All rights reserved.
 
